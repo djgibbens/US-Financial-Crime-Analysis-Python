@@ -1,8 +1,9 @@
 # US-Financial-Crime-Analysis-Python
 
 # Analyzing SAR Filing Patterns and MSB Distribution
-**Technical Toolkit: Python | Pandas | Matplotlib | Seaborn | Scikit-Learn**
+**Technical Toolkit: Python | Pandas | Matplotlib | Seaborn 
 
+## [📺 Watch the Project Presentation Video] - https://youtu.be/zKYCdiRiDts
 ## Project Objective
 This project examines nationwide patterns in Suspicious Activity Report (SAR) filings and evaluates their relationship with Money Services Business (MSB) density. By integrating multi-source regulatory data, the analysis identifies geographic hotspots and quantifies the correlation between MSB presence and suspicious financial activity.
 
